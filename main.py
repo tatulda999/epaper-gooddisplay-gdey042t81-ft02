@@ -1,5 +1,4 @@
 from microbit import *
-from micropython import const
 
 COLS = const(136)
 ROWS = const(250)
